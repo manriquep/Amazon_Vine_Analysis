@@ -16,4 +16,4 @@ From the extracted dataset in the video games, two datasets were created, paid v
 
 **Summary**
 
-This analysis shows there was no positivity bias for reviews in the paid (Vine) program with unpaid reviews showing a higher percentage of 5 star reviews. One additional test I could do to make sure there was no positivity bias would be to filter results based on viewing reviews only for verified purchases as this would be an additional step to make sure the reviewer actually purchased the product and did not just leave a review.
+This analysis shows there was no positivity bias for reviews in the paid (Vine) program with unpaid reviews showing a lower percentage of 5 star reviews. One additional test I could do to make sure there was no positivity bias would be to filter results based on viewing reviews only for verified purchases as this would be an additional step to make sure the reviewer actually purchased the product and did not just leave a review.
